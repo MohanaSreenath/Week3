@@ -16,11 +16,11 @@ Day 4: Searching Algorithms
 
 Day 5: Algorithm Runtime Analysis
 
-## Prerequisites
+Prerequisites
 
-## How to Use This Repository
+How to Use This Repository
 
-## Next Steps
+Next Steps
 
 ## Overview
 Week 3 introduces you to essential data structures—such as linked lists, stacks, queues, and hash maps—and key algorithms for sorting and searching. You will also learn how to analyze the runtime performance of algorithms. This knowledge is crucial for building efficient and scalable Java applications.
